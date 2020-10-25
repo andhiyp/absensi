@@ -1,0 +1,4 @@
+Fungsi dari aplikasi ini :
+-menarik data pegawai dari sebuah situs
+-menarik data absensi dari sebuah situs
+-menghitungkan dari absensi yang sudah ditarik
